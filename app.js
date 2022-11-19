@@ -5,7 +5,7 @@ const data = [
         gender : 'male',
         lookingfor : 'female',
         location : 'Cumilla',
-        image : 'https://cdn.pixabay.com/photo/2014/09/07/21/58/cyborg-438398__340.jpg'
+        image : 'https://cdn.pixabay.com/photo/2014/09/07/21/58/cyborg-438398__340.jpg',
     },
     {
         name : 'Dihan',
@@ -13,7 +13,7 @@ const data = [
         gender : 'male',
         lookingfor : 'female',
         location : 'Munshiganj',
-        image : 'https://cdn.pixabay.com/photo/2013/07/13/11/43/spaceman-158537__340.png'
+        image : 'https://cdn.pixabay.com/photo/2013/07/13/11/43/spaceman-158537__340.png',
     },
     {
         name : 'Labonno',
@@ -21,7 +21,7 @@ const data = [
         gender : 'female',
         lookingfor : 'male',
         location : 'Narayanganj',
-        image : 'https://cdn.pixabay.com/photo/2018/09/11/03/03/gothic-3668533__340.jpg'
+        image : 'https://cdn.pixabay.com/photo/2018/09/11/03/03/gothic-3668533__340.jpg',
     },
     {
         name : 'Saiful',
@@ -29,7 +29,7 @@ const data = [
         gender : 'male',
         lookingfor : 'female',
         location : 'Narayanganj',
-        image : 'https://cdn.pixabay.com/photo/2013/07/13/11/43/spaceman-158537__340.png'
+        image : 'https://cdn.pixabay.com/photo/2013/07/13/11/43/spaceman-158537__340.png',
     }
 ];
 
