@@ -5,7 +5,7 @@ const data = [
         gender : 'male',
         lookingfor : 'female',
         location : 'Cumilla',
-        image : 'https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-1/280205052_1393862467703322_208753879341624956_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=7206a8&_nc_ohc=qP1-vIGhui4AX_GgMNh&_nc_ht=scontent.fdac27-2.fna&oh=00_AT_Xe3Ja7bgWYUyn7gtncTsFG-hxvOax0Jzh_Ve5Wp5XLg&oe=633D3B68'
+        image : 'https://cdn.pixabay.com/photo/2014/09/07/21/58/cyborg-438398__340.jpg'
     },
     {
         name : 'Dihan',
@@ -13,7 +13,7 @@ const data = [
         gender : 'male',
         lookingfor : 'female',
         location : 'Munshiganj',
-        image : 'https://scontent.fdac27-2.fna.fbcdn.net/v/t1.6435-1/81688007_2377750415870074_2993098112274268160_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=rJS0bS3YPB0AX9UyaNQ&_nc_ht=scontent.fdac27-2.fna&oh=00_AT-QiY8yPVdRDMIi8MkgB-RaYMzYlAVZkJo_TIqmII54FQ&oe=635B7B30'
+        image : 'https://cdn.pixabay.com/photo/2013/07/13/11/43/spaceman-158537__340.png'
     },
     {
         name : 'Labonno',
@@ -21,7 +21,7 @@ const data = [
         gender : 'female',
         lookingfor : 'male',
         location : 'Narayanganj',
-        image : 'https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-1/283419499_1418222738622083_5924206008531042877_n.jpg?stp=dst-jpg_p100x100&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_ohc=6M5e_zZUc5gAX_6ZIUD&_nc_ht=scontent.fdac27-2.fna&oh=00_AT-D5VbH94yTL5dNJRWY0l36V5a7YcAWGigh6rIrJRjdpQ&oe=633C5CD7'
+        image : 'https://cdn.pixabay.com/photo/2018/09/11/03/03/gothic-3668533__340.jpg'
     },
     {
         name : 'Saiful',
@@ -29,7 +29,7 @@ const data = [
         gender : 'male',
         lookingfor : 'female',
         location : 'Narayanganj',
-        image : 'https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/292435773_3157086961200099_820556284942078764_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nTF_foi12PMAX-z_Lnb&_nc_ht=scontent.fdac27-2.fna&oh=00_AT8tdgVHxdcSJ5vmdA4hAeKUzvyBIoL8SCVRW7MdCGCuhQ&oe=633D4DEE'
+        image : 'https://cdn.pixabay.com/photo/2013/07/13/11/43/spaceman-158537__340.png'
     }
 ];
 
